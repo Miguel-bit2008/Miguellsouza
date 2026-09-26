@@ -2,24 +2,6 @@
 
 Me chamo Miguel Reis de Souza, tenho 18 anos e curso Análise e Desenvolvimento de Sistemas na UNESA. Estou em formação na área de tecnologia, construindo uma base sólida em desenvolvimento de software, e interesse em aprofundar conhecimentos em LLMs, Back-end, pentest, web development. Estou sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Miguel-bit2008?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Miguel-bit2008?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Miguel-bit2008?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Miguel-bit2008?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
