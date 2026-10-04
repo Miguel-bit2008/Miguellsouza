@@ -84,17 +84,17 @@ Me chamo Miguel Reis de Souza, tenho 18 anos e curso Análise e Desenvolvimento 
 <p>
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=Miguel-bit2008&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=Miguellsouza&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=Miguel-bit2008&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Miguellsouza&theme=light_github" />
   </picture>
     <br>
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Miguel-bit2008&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Miguellsouza&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Miguel-bit2008&langs_count=4&theme=light_github"     alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Miguellsouza&langs_count=4&theme=light_github"     alt="Top Langs" />
   </picture>
 </p>
